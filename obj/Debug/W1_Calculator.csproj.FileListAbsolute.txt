@@ -1,0 +1,22 @@
+C:\Users\mevah\Desktop\W1_Calculator\W1_Calculator\bin\Debug\W1_Calculator.exe.config
+C:\Users\mevah\Desktop\W1_Calculator\W1_Calculator\bin\Debug\W1_Calculator.exe
+C:\Users\mevah\Desktop\W1_Calculator\W1_Calculator\bin\Debug\W1_Calculator.pdb
+C:\Users\mevah\Desktop\W1_Calculator\W1_Calculator\obj\Debug\W1_Calculator.csproj.AssemblyReference.cache
+C:\Users\mevah\Desktop\W1_Calculator\W1_Calculator\obj\Debug\W1_Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\mevah\Desktop\W1_Calculator\W1_Calculator\obj\Debug\W1_Calculator.Form1.resources
+C:\Users\mevah\Desktop\W1_Calculator\W1_Calculator\obj\Debug\W1_Calculator.Properties.Resources.resources
+C:\Users\mevah\Desktop\W1_Calculator\W1_Calculator\obj\Debug\W1_Calculator.csproj.GenerateResource.cache
+C:\Users\mevah\Desktop\W1_Calculator\W1_Calculator\obj\Debug\W1_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\mevah\Desktop\W1_Calculator\W1_Calculator\obj\Debug\W1_Calculator.exe
+C:\Users\mevah\Desktop\W1_Calculator\W1_Calculator\obj\Debug\W1_Calculator.pdb
+C:\Users\moata\Desktop\UNI\SEM 2\OOP\Projects\W1_Calculator\W1_Calculator\W1_Calculator\bin\Debug\W1_Calculator.exe.config
+C:\Users\moata\Desktop\UNI\SEM 2\OOP\Projects\W1_Calculator\W1_Calculator\W1_Calculator\bin\Debug\W1_Calculator.exe
+C:\Users\moata\Desktop\UNI\SEM 2\OOP\Projects\W1_Calculator\W1_Calculator\W1_Calculator\bin\Debug\W1_Calculator.pdb
+C:\Users\moata\Desktop\UNI\SEM 2\OOP\Projects\W1_Calculator\W1_Calculator\W1_Calculator\obj\Debug\W1_Calculator.csproj.AssemblyReference.cache
+C:\Users\moata\Desktop\UNI\SEM 2\OOP\Projects\W1_Calculator\W1_Calculator\W1_Calculator\obj\Debug\W1_Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\moata\Desktop\UNI\SEM 2\OOP\Projects\W1_Calculator\W1_Calculator\W1_Calculator\obj\Debug\W1_Calculator.Form1.resources
+C:\Users\moata\Desktop\UNI\SEM 2\OOP\Projects\W1_Calculator\W1_Calculator\W1_Calculator\obj\Debug\W1_Calculator.Properties.Resources.resources
+C:\Users\moata\Desktop\UNI\SEM 2\OOP\Projects\W1_Calculator\W1_Calculator\W1_Calculator\obj\Debug\W1_Calculator.csproj.GenerateResource.cache
+C:\Users\moata\Desktop\UNI\SEM 2\OOP\Projects\W1_Calculator\W1_Calculator\W1_Calculator\obj\Debug\W1_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\moata\Desktop\UNI\SEM 2\OOP\Projects\W1_Calculator\W1_Calculator\W1_Calculator\obj\Debug\W1_Calculator.exe
+C:\Users\moata\Desktop\UNI\SEM 2\OOP\Projects\W1_Calculator\W1_Calculator\W1_Calculator\obj\Debug\W1_Calculator.pdb
